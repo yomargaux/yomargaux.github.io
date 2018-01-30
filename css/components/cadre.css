@@ -1,0 +1,17 @@
+#cadre {margin: 100px 130px 100px;
+text-align: center;
+border: solid 2px black;
+border-radius: 5px;
+box-shadow: 5px 5px 10px; 
+position: relative;
+}
+
+.cadre-circle {
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	width: 100px;
+	height: 100px;
+	background-color: #fff1cd;
+	border-radius: 50%;
+}

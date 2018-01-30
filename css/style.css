@@ -1,0 +1,22 @@
+@import	url("components/avatars.css");
+@import	url("components/cadre.css");
+@import	url("components/card.css");
+h1 {color:black;
+font-size: 50px;
+font-family: antrovectra !important;
+text-align: center;
+}
+h2 {color:#dcb988;
+	font-size: 20px;
+font-family: avenir;
+text-align: center;
+}
+a {font-family: avenir;}
+p {font-family: avenir;}
+
+
+#image {width: 500px;}
+.text-justify {text-align: justify;}
+
+
+
